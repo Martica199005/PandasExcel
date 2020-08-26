@@ -1,0 +1,4 @@
+ImportFolderType
+rawdata    [5, 6, 4]
+srcdata    [5, 6, 4]
+Name: Number, dtype: object
